@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1owDYAJyLX0VeqMlP9DRZ6esyk8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="mundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -62,7 +63,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614188821115</updated>
-      <workItem from="1614188826869" duration="1253000" />
+      <workItem from="1614188826869" duration="1427000" />
+      <workItem from="1614190631588" duration="40000" />
+      <workItem from="1614190724430" duration="317000" />
     </task>
     <servers />
   </component>
@@ -79,5 +82,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
